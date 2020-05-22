@@ -7,6 +7,18 @@
 ## Related projects ##
 <!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
 
+### Interactive Mario Mushroom Block ###
+https://create.arduino.cc/projecthub/sclandinin/interactive-mario-mushroom-block-2235dd
+
+<!--- Modify code to insert image of related project below --->
+![Image](missingimage.png)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Name of related project](https://[URL of related project])
+
+<!--- Include information about why this project is related to yours. --->
+This project is related to mine because it involves interacting with a box to make it open. I like how the box is decorated and the sounds that it makes when interacted with.
+
 ### *Insert name of related project here* ###
 
 <!--- Modify code to insert image of related project below --->
@@ -17,21 +29,19 @@
 
 <!--- Include information about why this project is related to yours. --->
 
-<!--- Repeat code above for a total of 6 related projects --->
-
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
 
 ## Conceptual development ##
 
 ### Design intent ###
-<!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
+To create an interactive puzzle box that 
 
 ### Design ideation ###
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+An ABBA themed puzzle box that gives clues to the user by playing ABBA rifts.
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
