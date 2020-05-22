@@ -32,6 +32,10 @@ This project is related to mine because it involves interacting with a box to ma
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
 
+I used youtube piano tutorials to help write the abba rifts into the microbit block code
+https://www.youtube.com/watch?v=Nnp1bLb_FJI
+https://www.youtube.com/watch?v=SZOqlq3ab8M
+
 ## Conceptual development ##
 
 ### Design intent ###
@@ -39,9 +43,21 @@ To create an interactive puzzle box that
 
 ### Design ideation ###
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+### Design concept 1 ###
+
+My first idea was an electronic pet. lots of people have been wanting pets in the last few weeks since we have been stuck inside. I think that an electronic household pet could be helpful for people who can't get a pet right now. I would want the pet to have a few simple commands that had randomised outcomes. My idea is to create a toy where the microbit LEDs are the interface.
+![Image](pet.png)
+
+
+### Design concept 2 ###
+My second idea was an alarmed cookie jar to stop people stealing your snacks. I felt that this would be useful whilst in isolation to stop people from having too many cookies by shaming them. The cookie jar could say sarcastic things when opened such as "Do you really need that?" and "Wow that's 3 today." Basically everything your mother would say if she was around.
+
+### Design concept 3 ###
+My third concept is to make a puzzle box that contains sweets. Following on from my second design concept, this design will protect your snacks from others in a fun and entertaining way. With an alarm that goes off if the box is opened without solving the problem and a puzzle/ passcode to keep people away from your treats.
+
 
 ### Final design concept ###
-An ABBA themed puzzle box that gives clues to the user by playing ABBA rifts.
+My final concept is an ABBA themed puzzle box that gives clues to the user by playing ABBA rifts. If the box is opened without the code "A-B-B-A" an alarm goes off. Each time an incorrect code is put in, an ABBA rift is played.
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
@@ -58,12 +74,20 @@ This should have quite a lot of information! It will likely include most of the 
 Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+Here is where I left off at the end of assessment 2:
 ![Image](progress.png)
+
+Decorating the box to make it look resectable:
 ![Image](progress1.png)
-![Image](progress2.png)
 ![Image](decorating.png)
 
+Taping down all of the inner circuit connections:
+![Image](progress2.png)
+
+Mamma Mia rift code:
 ![Image](mammamia.png)
+
+Dancing Queen rift code:
 ![Image](danceing.png)
 
 ## Final code ##
