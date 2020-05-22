@@ -8,16 +8,16 @@
 <!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
 
 ### Interactive Mario Mushroom Block ###
-https://create.arduino.cc/projecthub/sclandinin/interactive-mario-mushroom-block-2235dd
+
 
 <!--- Modify code to insert image of related project below --->
 ![Image](mario.png)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
+[Interactive Mario Mushroom Block](https://create.arduino.cc/projecthub/sclandinin/interactive-mario-mushroom-block-2235dd)
 
 <!--- Include information about why this project is related to yours. --->
-This project is related to mine because it involves interacting with a box to make it open. I like how the box is decorated and the sounds that it makes when interacted with.
+This project is related to mine because it involves interacting with a box to make it open. I like how the box is decorated and the fun sounds that it makes when interacted with. It is similar to mine also because it is a simple interaction.
 
 ### *Insert name of related project here* ###
 
@@ -46,7 +46,9 @@ An ABBA themed puzzle box that gives clues to the user by playing ABBA rifts.
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](missingimage.png)
+![Image](flowchart.png)
+![Image](flowchart2.png)
+
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
@@ -56,10 +58,21 @@ This should have quite a lot of information! It will likely include most of the 
 Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+![Image](progress.png)
+![Image](progress1.png)
+![Image](progress2.png)
+![Image](decorating.png)
+
+![Image](mammamia.png)
+![Image](danceing.png)
 
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+
+![Image](#1code.png)
+![Image](#2code.png)
+![Image](#3code.png)
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
