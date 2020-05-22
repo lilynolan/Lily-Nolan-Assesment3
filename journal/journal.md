@@ -1,4 +1,4 @@
-# 1701QCA Final project journal: *Insert your name here*
+# 1701QCA Final project journal: *Lily Nolann  *
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
@@ -19,20 +19,22 @@
 <!--- Include information about why this project is related to yours. --->
 This project is related to mine because it involves interacting with a box to make it open. I like how the box is decorated and the fun sounds that it makes when interacted with. It is similar to mine also because it is a simple interaction.
 
-### *Insert name of related project here* ###
+### *Star Wars Theme Song on Microbit* ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+![Image](starwars.png)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
+[Star Wars Theme Song on Microbit](https://makecode.microbit.org/v0/64323-10091-30877-83077)
 
 <!--- Include information about why this project is related to yours. --->
+This project is related to mine because it also uses microbit block code to create a melody. 
 
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
 
 I used youtube piano tutorials to help write the abba rifts into the microbit block code
+
 https://www.youtube.com/watch?v=Nnp1bLb_FJI
 https://www.youtube.com/watch?v=SZOqlq3ab8M
 
