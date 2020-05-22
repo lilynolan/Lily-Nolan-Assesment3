@@ -11,7 +11,7 @@
 https://create.arduino.cc/projecthub/sclandinin/interactive-mario-mushroom-block-2235dd
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+![Image](mario.png)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Name of related project](https://[URL of related project])
