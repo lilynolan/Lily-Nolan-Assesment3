@@ -114,21 +114,24 @@ Dancing Queen rift code:
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-A challenged that I faced was making the box a combination code. I researched other combination javascript code and found the way that worked best for me was to create "states." The code would move to the next state when the correct part of the combination was put in and if the wrong button was pressed then the state would revert back to 0. The alarm would be disarmed when the state reached 4 and the user would be able to open the box. Another challenge that I faced was making my project a spectifc theme that was interesting to use. I decided to explore music because I had the buzzer which was easy to attatch to the microbit and code. I then assesed that I had the buttons "A" and "B" in my microbit and decided that ABBA would be the theme of my puzzle box. I found that this theme was easy to deliver without being obvious and keeping the user engaged with the puzzle.
+A challenge that I faced was making the box a combination code. I researched other combination javascript code and found the way that worked best for me was to create "states." The code would move to the next state when the correct part of the combination was put in and if the wrong button was pressed then the state would revert back to 0. The alarm would be disarmed when the state reached 4 and the user would be able to open the box. Another challenge that I faced was making my project a spectifc theme that was interesting to use. I decided to explore music because I had the buzzer which was easy to attatch to the microbit and code. I then assesed that I had the buttons "A" and "B" in my microbit and decided that ABBA would be the theme of my puzzle box. I found that this theme was easy to deliver without being obvious and keeping the user engaged with the puzzle.
 
 ## Reflection ##
 
 <!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
 
-I felt that my presentation and decoration of the box was very sucsessful and aesthetically pleasing. I think that my ABBA rifts weren't as instant;y recognisable as I would like. In testing lots of people needed to be prompted to understand what song was playing.
+I felt that my presentation and decoration of the box was very sucsessful and aesthetically pleasing. I think that my ABBA rifts weren't as instantly recognisable as I would like. In testing lots of people needed to be prompted to understand what song was playing.
+
 
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 I found sources that I felt were useful for my project and gave me inspiration to make mine more interactive and fun to use. The Mario Block project gave me inspiration to decorate my project a specific theme and the Star Wars music code helped me to write my own rendition of popular music. 
+
 
 What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
 I feel that the musical element of my project is novel. When the user recognises the tune, puts in the correct combination and sees the tick appear, it is very rewarding and not an experience that you would have in a regular day. I also think that it is aesthetically pleasing and is an interesting object that people are inquisitive about when they see it.
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
+
 
 A fun extension for this project would be to have the combination change and the music change to match that combination. To have a rifts from other artists play and the code is the artist's name of whatever music is playing. Another context that this project could be used in is a kids educational toy. For example, it could have different coulered buttons and say the name of a colour and the kid has to press that coloured button to be rewarded.
