@@ -1,4 +1,4 @@
-# 1701QCA Final project journal: *Lily Nolann  *
+# 1701QCA Final project journal: *Lily Nolan  *
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
